@@ -1,0 +1,82 @@
+html{
+
+
+
+}
+.fileDiv{
+
+    position: fixed;
+    top: 40%;
+    left: 35%;
+height:200px;
+width:400px;
+
+box-shadow: 2px black;
+border-radius: 10px;
+border: 2px solid;
+background-color: blanchedalmond;
+
+}
+#file{
+
+display:none;
+
+
+}
+.fileDiv p{
+
+position: relative
+;
+top: 30%;
+left:40%;
+font-size: larger;
+
+}
+.fileDiv span{
+
+color:blue;
+font-weight: bold;
+cursor:pointer;
+
+}
+.link{
+
+    position: fixed;
+    top: 85%;
+    left: 35%;
+    display: flex;
+height:50px;
+width:400px;
+flex-direction: row;
+
+}
+.link input{
+
+    height:40px;
+    width:400px;
+
+}
+.btn{
+    width:100px;
+    height:30px;
+    background-color: blueviolet;
+    color:white;
+    float: right;
+    margin-left: 30px;
+    cursor:pointer;
+
+
+}
+.logo p{
+    padding-left:48%;
+    font-weight: bolder;
+    font-size: large;
+    font-family:fantasy
+}
+#img{
+
+    width:100px;
+    height:100px;
+    padding-left: 45%;
+    
+}
